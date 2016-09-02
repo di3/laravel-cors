@@ -1,7 +1,6 @@
 # laravel-cors
-laravel cors middleware
+laravel cors middleware [CorsMiddleware.php](https://github.com/di3/laravel-cors/blob/master/app/Http/Middleware/CorsMiddleware.php)
 
-[CorsMiddleware.php](https://github.com/di3/laravel-cors/blob/master/app/Http/Middleware/CorsMiddleware.php)
 
 *bootstrap/app.php:*
 ```php
